@@ -21,10 +21,9 @@ Anyway, the following concepts were covered:
  - Queues
  - Priority Queues
  - Disjoint Sets
- ------------------ still left vv
- - Hash Tables
- - Binary Search Trees
- - AVL trees
+ - Hash Tables - still left
+ - Binary Search Trees - still left
+ - AVL trees - still left
 
 
 Pretty great course. It is a college-level course with a lot of math and analysis, but I highly recommend it.
